@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Persistency</string>
+    <string name="start_second">Start Second</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="increase_count">Count +1</string>
+    <string name="load_sync">Load</string>
+    <string name="store_sync">Store</string>
+</resources>
