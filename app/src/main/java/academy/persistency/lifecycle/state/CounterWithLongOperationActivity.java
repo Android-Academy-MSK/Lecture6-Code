@@ -79,8 +79,8 @@ public class CounterWithLongOperationActivity extends AppCompatActivity {
     }
 
     @Override
-    protected void onDestroy() {
-        super.onDestroy();
+    protected void onStop() {
+        super.onStop();
         mCompositeDisposable.dispose();
     }
 }
